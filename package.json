@@ -1,0 +1,23 @@
+{
+  "name": "nodepdfcreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfgomes/NodePdfCreator.git"
+  },
+  "author": "André Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfgomes/NodePdfCreator/issues"
+  },
+  "homepage": "https://github.com/alfgomes/NodePdfCreator#readme",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "pdf-creator-node": "^1.4.0"
+  }
+}
