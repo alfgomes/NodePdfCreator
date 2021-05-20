@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/alfgomes/NodePdfCreator#readme",
   "dependencies": {
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "pdf-creator-node": "^1.4.0"
   }
 }
